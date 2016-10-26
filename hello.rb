@@ -1,3 +1,4 @@
-file 'newfile' do
-	content 'hello world'
+file '/tmp/motd' do
+	content 'hello blasters'
 end
+
