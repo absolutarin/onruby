@@ -1,2 +1,2 @@
 # onruby
-Learning ruby so pardon the ignorance and noobism
+Learning ruby and python so pardon the noobism
